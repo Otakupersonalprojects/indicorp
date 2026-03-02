@@ -13,5 +13,6 @@
 	--success-color: #2dc071;
 	--alert-color: #e77c40;
 	--danger-color: #e74040;
-    --primary-font: "Montserrat", Arial, Helvetica, sans-serif;   
+    --primary-font: "Montserrat", Arial, Helvetica, sans-serif; 
+	--color-red: #f00  
 }
